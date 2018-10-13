@@ -14,3 +14,5 @@ Esse documento tem como objetivo apresentar e descrever o projeto final, fornece
 **[App Map](https://github.com/RodrigoAntunesEDM/ProjetoFinal/wiki/App-Map-da-Solu%C3%A7%C3%A3o)**
 
 **[Schema JSON](https://github.com/RodrigoAntunesEDM/ProjetoFinal/wiki/Schema-JSON)**
+
+**[Wireframes](https://github.com/RodrigoAntunesEDM/ProjetoFinal/wiki/Wireframes)**
